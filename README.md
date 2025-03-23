@@ -8,6 +8,8 @@
 
 - It is now fully open source!
 
+![EuroStatify AI Screenshot](https://github.com/tiagomonteiro0715/eurostatify-ai/blob/main/image.png)
+
 ## Project Structure
 ```
 
@@ -118,7 +120,7 @@ print(answer)
 
 We’ve also open-sourced the original business plan, product notes, and strategic frameworks that guided the development of EuroStatify AI.
 
-- Business Plan PDF
+- [View Full Business Plan (PDF)](https://github.com/tiagomonteiro0715/eurostatify-ai/blob/main/EuroStatify-AI-Plans.pdf)
 - Includes Blue Ocean Strategy, SaaS metrics, marketing, and financial modeling.
 
 ### Feel free to fork, adapt, or build on this project — especially if you're working in:
