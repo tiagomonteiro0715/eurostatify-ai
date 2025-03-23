@@ -1,6 +1,6 @@
 ## EuroStatify AI — Open Source
 
-- EuroStatify AI was created to make European public data more accessible and useful for researchers, policymakers, and civic technologists.
+- EuroStatify AI was created to make European public data insights and hidden patterns accessible for researchers and policymakers.
 
 - It leverages a fine-tuned Google T5 model trained on 150,000+ custom-generated question–answer pairs derived from Eurostat datasets.
 
